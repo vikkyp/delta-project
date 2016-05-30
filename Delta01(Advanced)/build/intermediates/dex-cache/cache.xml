@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_30fb14ee82b20edd98bce26dff5dfdb39fd31f3f\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbb42903a7817ee315c14d23c05fe6d46085ee75">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a635c6bb441417afd7b24d235bd27031809ebb63\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_833a3a4b9365ecd9d46480ada9195b0e00690335\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_79b088f633d527fa646fbaa5694e6b8aede9738b\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_5542ca5f35004cb45641b0df1da5ae3571126a67\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="30739286b86309ca4d9ab3f4a8a44436de807500">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_77175d917f86b4a31e17f9663ec5b12ab61d5b33\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_b245e97eb4e2fdb9b378fb0b8ca5592f26aaf8b3\classes.dex" />
+    </item>
+    <item
+        jar="A:\android app testing\Delta01(Advanced)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="A:\android app testing\Delta01(Advanced)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_5bfba7d47a8685745680c6fdfac2280f79854543\classes.dex" />
+    </item>
+
+</items>
